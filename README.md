@@ -1,7 +1,5 @@
 # partiallydex 
 
-I have experience in Reverse Engineering, utilizing tools such as Ghidra to break down .exe files and analyze their contents in assembly. I love the concept of Reverse Engineering and the challenge it poses, as it allows me to learn new malware techniques in the field continually. I'm currently studying Computer Science and looking forward to working as a Red Team specialist. The concept of security keeps me curious. 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/partiallydex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="partiallydex" height="30" width="40" /></a>
